@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&display=swap");
+
+.msn {
+  margin-top: 5%;
+  margin-left: 10%;
+  color: black;
+  display: flexbox;
+}
+
+.tituloss {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300px;
+  font-size: 100px;
+}
+
+.parrafoss {
+  font-family: "Hind Madurai", sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 32px;
+  text-align: justify;
+}
+
+#ti2{
+  display: flex;
+  justify-content: flex-end;
+}
+
+#pa2{
+  text-align: end;
+}
