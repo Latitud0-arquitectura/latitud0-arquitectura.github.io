@@ -30,3 +30,64 @@
 #pa2{
   text-align: end;
 }
+
+.titulos{
+  margin-top: 10px;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  /* font-style: italic; */
+  line-height: 32px;
+  text-align: center;
+}
+
+.equipo{
+  color: black;
+  display: grid;
+  margin-left: 27%;
+}
+
+.persona {
+display: inline-flex;
+margin-top: 50px;
+}
+
+.persona2{
+  display: inline-flex;
+  flex-direction: row-reverse;
+  margin-top: 50px;
+
+}
+
+.text{
+  margin-left: 10%;
+  display: grid;
+}
+
+.text2{
+  margin-right: 10%;
+  display: grid;
+  text-align: right ;
+  
+}
+
+.persona img{
+  
+  height: 200px;
+}
+.persona2 img{
+  width: 200px;
+}
+
+.persona p{
+  display: flex;
+  align-items: center;
+  text-align: justify;
+}
+
+.persona2 p{
+  display: flex;
+  align-items: center;
+  text-align: justify;
+}
+
